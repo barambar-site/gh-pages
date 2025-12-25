@@ -3,12 +3,24 @@
     <title>barambar</title>
     <link href="https://www.barambar.com.br/feed.xml" rel="self" />
     <link href="https://www.barambar.com.br" />
-    <updated>2025-12-24T21:48:21-03:00</updated>
+    <updated>2025-12-24T21:50:55-03:00</updated>
     <author>
         <name>equipe</name>
     </author>
     <id>https://www.barambar.com.br</id>
 
+    <entry>
+        <title>oi9</title>
+        <author>
+            <name>equipe</name>
+        </author>
+        <link href="https://www.barambar.com.br/oi9.html"/>
+        <id>https://www.barambar.com.br/oi9.html</id>
+
+        <updated>2025-12-24T21:50:55-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>oi2</title>
         <author>
