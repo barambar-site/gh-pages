@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "barambar",
+    "description": "",
+    "home_page_url": "https://barambar.com.br",
+    "feed_url": "https://barambar.com.br/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "equipe"
+    },
+    "items": [
+        {
+            "id": "https://barambar.com.br/oi.html",
+            "url": "https://barambar.com.br/oi.html",
+            "title": "oi",
+            "author": {
+                "name": "equipe"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-24T21:46:53-03:00",
+            "date_modified": "2025-12-24T21:46:53-03:00"
+        }
+    ]
+}
