@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>barambar</title>
-    <link href="https://barambar.com.br/feed.xml" rel="self" />
-    <link href="https://barambar.com.br" />
-    <updated>2025-12-24T21:46:53-03:00</updated>
+    <link href="https://www.barambar.com.br/feed.xml" rel="self" />
+    <link href="https://www.barambar.com.br" />
+    <updated>2025-12-24T21:48:21-03:00</updated>
     <author>
         <name>equipe</name>
     </author>
-    <id>https://barambar.com.br</id>
+    <id>https://www.barambar.com.br</id>
 
     <entry>
-        <title>oi</title>
+        <title>oi2</title>
         <author>
             <name>equipe</name>
         </author>
-        <link href="https://barambar.com.br/oi.html"/>
-        <id>https://barambar.com.br/oi.html</id>
+        <link href="https://www.barambar.com.br/oi.html"/>
+        <id>https://www.barambar.com.br/oi.html</id>
 
         <updated>2025-12-24T21:46:53-03:00</updated>
             <summary></summary>
